@@ -1,0 +1,21 @@
+{
+    "name": "Interactables",
+    "rootNamespace": "",
+    "references": [
+        "GUID:da209329be67cd34b8d176f36be0233a",
+        "GUID:806ad97c5db76d642b2dac4f0496efeb"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
